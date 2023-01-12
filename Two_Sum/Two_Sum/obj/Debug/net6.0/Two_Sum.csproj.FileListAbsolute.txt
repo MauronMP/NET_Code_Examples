@@ -1,0 +1,15 @@
+C:\Users\PabloMorenillasPino\source\repos\Two_Sum\Two_Sum\obj\Debug\net6.0\Two_Sum.csproj.AssemblyReference.cache
+C:\Users\PabloMorenillasPino\source\repos\Two_Sum\Two_Sum\obj\Debug\net6.0\Two_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PabloMorenillasPino\source\repos\Two_Sum\Two_Sum\obj\Debug\net6.0\Two_Sum.AssemblyInfoInputs.cache
+C:\Users\PabloMorenillasPino\source\repos\Two_Sum\Two_Sum\obj\Debug\net6.0\Two_Sum.AssemblyInfo.cs
+C:\Users\PabloMorenillasPino\source\repos\Two_Sum\Two_Sum\obj\Debug\net6.0\Two_Sum.csproj.CoreCompileInputs.cache
+C:\Users\PabloMorenillasPino\source\repos\Two_Sum\Two_Sum\bin\Debug\net6.0\Two_Sum.exe
+C:\Users\PabloMorenillasPino\source\repos\Two_Sum\Two_Sum\bin\Debug\net6.0\Two_Sum.deps.json
+C:\Users\PabloMorenillasPino\source\repos\Two_Sum\Two_Sum\bin\Debug\net6.0\Two_Sum.runtimeconfig.json
+C:\Users\PabloMorenillasPino\source\repos\Two_Sum\Two_Sum\bin\Debug\net6.0\Two_Sum.dll
+C:\Users\PabloMorenillasPino\source\repos\Two_Sum\Two_Sum\bin\Debug\net6.0\Two_Sum.pdb
+C:\Users\PabloMorenillasPino\source\repos\Two_Sum\Two_Sum\obj\Debug\net6.0\Two_Sum.dll
+C:\Users\PabloMorenillasPino\source\repos\Two_Sum\Two_Sum\obj\Debug\net6.0\refint\Two_Sum.dll
+C:\Users\PabloMorenillasPino\source\repos\Two_Sum\Two_Sum\obj\Debug\net6.0\Two_Sum.pdb
+C:\Users\PabloMorenillasPino\source\repos\Two_Sum\Two_Sum\obj\Debug\net6.0\Two_Sum.genruntimeconfig.cache
+C:\Users\PabloMorenillasPino\source\repos\Two_Sum\Two_Sum\obj\Debug\net6.0\ref\Two_Sum.dll
